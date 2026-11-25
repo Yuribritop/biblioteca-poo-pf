@@ -2,10 +2,9 @@
 
 Atividade prática de Linguagens de Programação: Orientação a Objetos + Programação Funcional.
 
-## Integrantes
+## Integrante
 
-- NOME COMPLETO DO INTEGRANTE 1
-- NOME COMPLETO DO INTEGRANTE 2
+- Yuri Brito Pereira da Silva
 
 ## Linguagem
 
